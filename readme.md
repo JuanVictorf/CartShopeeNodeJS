@@ -1,4 +1,4 @@
-# 🛒 Simulador de Carrinho de Compras - Shopee
+# 🛒 Simulador de Carrinho de Compras - Shopee Clone
 
 Este projeto é uma simulação simples de um carrinho de compras inspirado na Shopee, desenvolvido em JavaScript. O objetivo é aplicar conceitos de programação como funções assíncronas, organização em módulos e manipulação de arrays.
 
@@ -9,15 +9,6 @@ Este projeto é uma simulação simples de um carrinho de compras inspirado na S
 - ✅ Deletar um item inteiro do carrinho
 - ✅ Calcular o valor total do carrinho
 - ✅ Exibir a lista de itens no carrinho com subtotal de cada item
-
-## 🗂️ Estrutura do Projeto
-
-📦 simulador-carrinho-shopee
-┣ 📜 index.js
-┣ 📂 services
-┃ ┣ 📜 cart.js
-┃ ┗ 📜 item.js
-┗ 📜 README.md
 
 ## 🔧 Tecnologias Utilizadas
 
@@ -66,4 +57,4 @@ displayCart(): Exibe todos os itens do carrinho com seus respectivos subtotais.
 📦 Adicionar funcionalidades como wishlist e histórico de compras.
 
 👨‍💻 Autor
-Juan ✨
+Juan Victor / BootcampDioMeutudo✨
