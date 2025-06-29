@@ -1,4 +1,4 @@
-# 🛒 Simulador de Carrinho de Compras - Shopee Clone
+# 🛒 Simulador de Carrinho de Compras - Shopee
 
 Este projeto é uma simulação simples de um carrinho de compras inspirado na Shopee, desenvolvido em JavaScript. O objetivo é aplicar conceitos de programação como funções assíncronas, organização em módulos e manipulação de arrays.
 
